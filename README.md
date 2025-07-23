@@ -28,15 +28,6 @@ Matplotlib
 
 Scikit-learn
 
-## 📈 Dataset
-The dataset used contains two columns:
-
-YearsExperience: Number of years of experience
-
-Salary: Corresponding salary
-
-This dataset is typically used for simple regression tasks and is small, making it great for quick prototyping and understanding regression fundamentals.
-
 ## 🧠 Model
 The notebook uses Linear Regression from scikit-learn to learn the relationship between experience and salary.
 
