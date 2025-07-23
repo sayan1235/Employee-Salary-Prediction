@@ -2,7 +2,7 @@
 
 This repository contains a simple machine learning project that predicts salaries based on years of experience using linear regression. The project is implemented in a Jupyter Notebook (salarypredict.ipynb).
 
-📌 Project Overview
+##📌 Project Overview
 This project demonstrates the steps to build a basic supervised learning model. It involves:
 
 Loading and visualizing the dataset
@@ -15,7 +15,7 @@ Evaluating model performance
 
 Making predictions
 
-🚀 Technologies Used
+##🚀 Technologies Used
 Python 🐍
 
 Jupyter Notebook 📓
